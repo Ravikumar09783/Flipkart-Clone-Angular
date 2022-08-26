@@ -1,0 +1,41 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "userAdd": [
+    {
+      "id": 1,
+      "add1": "3319",
+      "add2": "Mauli jagran ",
+      "city": "chandigarh",
+      "fname": "Ravi",
+      "lname": "kumar",
+      "state": "Chhattisgarh",
+      "zip": "160102"
+    },
+    {
+      "fname": "",
+      "lname": "",
+      "add1": "",
+      "add2": "",
+      "city": "",
+      "state": "",
+      "zip": "",
+      "id": 2
+    },
+    {
+      "fname": "",
+      "lname": "",
+      "add1": "",
+      "add2": "",
+      "city": "",
+      "state": "",
+      "zip": "",
+      "id": 3
+    }
+  ]
+}
